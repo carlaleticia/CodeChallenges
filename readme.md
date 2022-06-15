@@ -1,6 +1,6 @@
 <!--Banner session-->
 <p align="center">
-  <img src="https://drive.google.com/file/d/1TKs1A68KgYxwZ46ckXZL-S1plAAQmMxO/view?usp=sharing" alt="banner">
+  <img src="https://drive.google.com/uc?export=view&id=1TKs1A68KgYxwZ46ckXZL-S1plAAQmMxO" alt="banner">
 </p>
 
 <!--About session-->
