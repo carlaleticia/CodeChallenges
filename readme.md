@@ -84,30 +84,36 @@
             </tr>
             <tr>
                 <td align="center">4</td>
+                <td>Esfera</td>
+                <td><a href="https://github.com/carlaleticia/CodeChallenges/blob/main/JavaScript/esfera.js">Código</a></td>
+                <td align="center">✅</td>
+            </tr>
+            <tr>
+                <td align="center">5</td>
                 <td>Guilherme e suas pipas</td>
                 <td><a href="https://github.com/carlaleticia/CodeChallenges/blob/main/JavaScript/pipas.js">Código</a></td>
                 <td align="center">✅</td>
             </tr>
             <tr>
-                <td align="center">5</td>
+                <td align="center">6</td>
                 <td>Poligonos</td>
                 <td><a href="https://github.com/carlaleticia/CodeChallenges/blob/main/JavaScript/poligonos.js">Código</a></td>
                 <td align="center">✅</td>
             </tr>
             <tr>
-                <td align="center">6</td>
+                <td align="center">7</td>
                 <td>Quadrado de 2</td>
                 <td><a href="https://github.com/carlaleticia/CodeChallenges/blob/main/JavaScript/quadrado2.js">Código</a></td>
                 <td align="center">✅</td>
             </tr>
             <tr>
-                <td align="center">7</td>
+                <td align="center">8</td>
                 <td>Resto de 2</td>
                 <td><a href="https://github.com/carlaleticia/CodeChallenges/blob/main/JavaScript/resto2.js">Código</a></td>
                 <td align="center">✅</td>
             </tr>
             <tr>
-                <td align="center">8</td>
+                <td align="center">9</td>
                 <td>Tomadas</td>
                 <td><a href="https://github.com/carlaleticia/CodeChallenges/blob/main/JavaScript/tomadas.js">Código</a></td>
                 <td align="center">✅</td>
