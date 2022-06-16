@@ -33,12 +33,30 @@
             </tr>
             <tr>
                 <td align="center">2</td>
+                <td>Idades</td>
+                <td><a href="https://github.com/carlaleticia/CodeChallenges/blob/main/Java/idades.java">Código</a></td>
+                <td align="center">✅</td>
+            </tr>
+            <tr>
+                <td align="center">3</td>
+                <td>Montanha-Russa</td>
+                <td><a href="https://github.com/carlaleticia/CodeChallenges/blob/main/Java/montanha-russa.java">Código</a></td>
+                <td align="center">✅</td>
+            </tr>
+            <tr>
+                <td align="center">4</td>
+                <td>Mudança</td>
+                <td><a href="https://github.com/carlaleticia/CodeChallenges/blob/main/Java/mudanca.java">Código</a></td>
+                <td align="center">✅</td>
+            </tr>
+            <tr>
+                <td align="center">5</td>
                 <td>Pneu</td>
                 <td><a href="https://github.com/carlaleticia/CodeChallenges/blob/main/Java/pneu.java">Código</a></td>
                 <td align="center">✅</td>
             </tr>
             <tr>
-                <td align="center">3</td>
+                <td align="center">6</td>
                 <td>Reservatório de Mel</td>
                 <td><a href="https://github.com/carlaleticia/CodeChallenges/blob/main/Java/reservatoriomel.java">Código</a></td>
                 <td align="center">✅</td>
